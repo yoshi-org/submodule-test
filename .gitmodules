@@ -1,0 +1,3 @@
+[submodule "vendor/dvja"]
+	path = vendor/dvja
+	url = https://github.com/yoshi-org/DVJA.git
